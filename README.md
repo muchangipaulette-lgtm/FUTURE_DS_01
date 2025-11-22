@@ -28,9 +28,13 @@ Develop visually compelling and interactive dashboards
 Provide actionable business insights
 
 🛠 **Tools & Technologies**
+
 Power BI Desktop - Data modeling, DAX, dashboard development
+
 Power Query Editor - Data cleaning and transformation
+
 Microsoft Excel - Source dataset
+
 DAX (Data Analysis Expressions) - Custom measures & calculations
 
 🧹 **Data Preparation**
